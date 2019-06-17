@@ -29,7 +29,7 @@ blpack提供了一个非常方便的下载百度文库文档的方案。作者�
 [搜狗浏览器](http://ie.sogou.com/app/search/Tampermonkey) / [360安全浏览器](https://ext.se.360.cn/webstore/search/tampermonkey) / [360极速浏览器](https://ext.chrome.360.cn/webstore/search/tampermonkey) / [火狐浏览器](https://addons.mozilla.org/zh-CN/firefox/addon/tampermonkey/) / [QQ浏览器](http://appcenter.browser.qq.com/search/detail?key=Tampermonkey&id=dhdgffkkebhmkfjojejmpbldmpobfkfo&title=Tampermonkey) / [UC浏览器](https://extensions.uc.cn/newindex.htm#!detail/dhdgffkkebhmkfjojejmpbldmpobfkfo) / [Safari浏览器](http://tampermonkey.net/?browser=safari) / [Edge浏览器](https://www.microsoft.com/zh-cn/store/p/tampermonkey/9nblggh5162s?rtc=1) / [遨游浏览器](http://extension.maxthon.com/detail/index.php?view_id=1680) / [Opera浏览器](https://addons.opera.com/zh-cn/extensions/details/tampermonkey-beta/?display=en)
 
 ## 安装
-[点我安装]()
+[点我安装](https://github.com/52fisher/wenkuDown/raw/master/wenku-blpack-down.user.js)
 
 
 ## 警告
