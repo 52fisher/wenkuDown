@@ -1,5 +1,5 @@
 
-## <font color=red>警告-FBIWARNING</font>
+## <font color="red">警告-FBIWARNING</font>
 
 - 本脚本为非官方脚本，由于blpack官网与百度文库的协议存在跨域问题，所以使用了url转发作为两者沟通的桥梁，在此过程中**保证不保存任何用户信息**，介意者勿用。
 
