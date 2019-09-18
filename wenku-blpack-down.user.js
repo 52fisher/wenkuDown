@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         百度文库文档直接下载（blpack）
 // @namespace    https://github.com/52fisher/wenkuDown
-// @version      1.3
+// @version      1.4
 // @description  文库直接下载
 // @author       fisher
 // @updateURL    https://github.com/52fisher/wenkuDown/raw/master/wenku-blpack-down.user.js
@@ -21,7 +21,7 @@ $('#blpack-down').bind('click',function(){
     var usracc = localStorage.getItem('wenkuusracc'),
         usrpwd = localStorage.getItem('wenkuusrpwd'),
         docid = location.pathname.match(/\/.+\/(\w+)/)[1];
-    if (usracc.length < 5 || usrpwd.length < 5) { // need login
+    if (!usracc || !usrpwd || usracc.length < 5 || usrpwd.length < 5) { // need login
         $('#blpack-dialogBox').dialogBox({
             hasClose: true,
             hasBtn: true,
